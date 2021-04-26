@@ -44,8 +44,7 @@ The Orange line has the following stops:
   orange_line = north station, haymarket, park st, state, downtown crossing, chinatown, back bay, forest hills
 ```
 
-All 3 subway lines intersect at park st, but there are no other intersection
-points. Some of this MBTA is fictionalized. Haymarket does not connect the
+All 3 subway lines intersect at park st, but there are no other intersection points. Some of this MBTA is fictionalized. Haymarket does not connect the
 orange/green lines.
 
 ## Hints
