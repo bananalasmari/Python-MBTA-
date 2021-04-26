@@ -4,11 +4,11 @@
 
 ## Instructions
 
-1.  Fork and clone this repository.
-1.  Change into the new directory.
-1.  Create and checkout a new branch to work on.
-1.  Fulfill the listed requirements.
-1.  Be sure to do your work in challenge.js
+1. Fork and clone this repository.
+2. Change into the new directory.
+3. Create and checkout a new branch to work on.
+4. Fulfill the listed requirements.
+5. Be sure to do your work in challenge.js
 
 A pull request is not required, but it is necessary if you want a code review.
 
@@ -20,9 +20,9 @@ cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 Create a program that models a simple subway system.
 
--   The program takes the line and stop that a user is getting on at and the
-    line and stop that user is getting off at and prints the total number of
-    stopsfor the trip.
+- The program takes the line and stop that a user is getting on at and the
+  line and stop that user is getting off at and prints the total number of
+  stopsfor the trip.
 
 There are 3 subway lines:
 
@@ -50,17 +50,17 @@ orange/green lines.
 
 ## Hints
 
--   Assume good user input. Don't do lots of checking to ensure good input.
+- Assume good user input. Don't do lots of checking to ensure good input.
 
--   You should be able to try to calculate the distance in your code without
-    user input, but in the end we'll want user input.
+- You should be able to try to calculate the distance in your code without
+  user input, but in the end we'll want user input.
 
--   You need to prompt the user for four pieces of input data.
+- You need to prompt the user for four pieces of input data.
 
--   Consider diagraming the lines by sketching out the subway lines and their
-    stops and intersection.
+- Consider diagraming the lines by sketching out the subway lines and their
+  stops and intersection.
 
--   The key to the lab is to find the intersection of the lines at park st.
+- The key to the lab is to find the intersection of the lines at park st.
 
 ## [License](LICENSE)
 
